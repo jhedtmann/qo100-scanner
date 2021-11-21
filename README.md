@@ -1,2 +1,3 @@
-# qo100-scanner
-Python scripts to perform scanning on an Octagon SF8008 satellite receiver (and possibly others).
+* off: power_on => initialising
+* initialising: AUTO => idling
+* idling: AUTO => idling | start => scanning
